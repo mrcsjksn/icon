@@ -7,10 +7,12 @@ ICON presents a making ready––or making real––of the trombonist and trom
 
 ---
 
-_Written as part of Marcus Jackson's Masters Thesis:_ 
+Written as part of Marcus Jackson's Masters Thesis:
+
 __DISCONTINUITY:__ a compositional approach to the dynamic decoupling of gesture and sound in live performance
 
 #### Performance History
 
 __06/10/18:__ Performed by Zane Berghuis — [video here](https://vimeo.com/310441170/293edc4797)
-With thanks to SOUNZ Centre of New Zealand Music for documenting the performance
+
+_With thanks to SOUNZ Centre of New Zealand Music for documenting the performance_
